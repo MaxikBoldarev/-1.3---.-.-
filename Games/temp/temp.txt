@@ -1,0 +1,21 @@
+Изменена рабочая директория на:/Users/admin/Documents/Games
+the directory has been created: src
+the directory has been created: res
+the directory has been created: savegames
+the directory has been created: temp
+Изменена рабочая директория на:/Users/admin/Documents/Games/src
+the directory has been created: main
+the directory has been created: test
+Изменена рабочая директория на:/Users/admin/Documents/Games/src/main
+The file has been created: Main.java
+The file has been created: Utils.java
+Изменена рабочая директория на:/Users/admin/Documents/Games/res
+the directory has been created: drawbles
+the directory has been created: vectors
+the directory has been created: icons
+Изменена рабочая директория на:/Users/admin/Documents/Games/temp
+The file has been created: temp.txt
+Изменена рабочая директория на:/Users/admin/Documents/Games/savegames
+Распаковка файла прошла успешно в /Users/admin/Documents/Games/savegames
+Десериализация выполнена из /Users/admin/Documents/Games/savegames/save1.dat
+Изменена рабочая директория на:/Users/admin/Documents/Games/temp
